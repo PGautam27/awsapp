@@ -1,0 +1,7 @@
+1. try to push new changes using tags and use tag as v1.5.
+2. what git reset will do try with example.
+3. try to create 2 different branches branch1 and branch2 and do at least 2 commits on both branches
+and try to shift the last change from branch 1 to branch2.
+4. try to merge branch2 to branch 1.
+5. come-up with differences between merge and rebase.
+6. try to enable ssh between 2 servers using keys.
